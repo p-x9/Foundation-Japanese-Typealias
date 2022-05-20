@@ -6,6 +6,7 @@ public typealias 単精度浮動小数 = Float
 public typealias 倍精度浮動小数 = Double
 
 public typealias 文字列 = String
+public typealias 部分文字列 = Substring
 public typealias 文字 = Character
 
 public typealias 配列 = Array
