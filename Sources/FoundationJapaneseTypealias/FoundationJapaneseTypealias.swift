@@ -13,9 +13,12 @@ public typealias 配列 = Array
 public typealias セット = Set
 public typealias 辞書 = Dictionary
 
+public typealias オプショナル = Optional
+
 public typealias 日付 = Date
 public typealias カレンダー = Calendar
 
 public typealias データ = Data
 
-
+public typealias インデックスパス = IndexPath
+public typealias インデックスセット = IndexSet
